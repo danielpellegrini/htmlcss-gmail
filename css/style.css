@@ -16,6 +16,10 @@ h2{
   margin: 20px 20px 20px 0;
 }
 
+h4 {
+  display: inline-block;
+}
+
 main {
   border-top: 2px solid white;
   border-bottom: 2px solid white;
@@ -91,6 +95,7 @@ font-size: 20px;
 .powered {
   font-style: italic;
   font-size: 12px;
+  padding-left: 10px;
 }
 
 .white {
